@@ -4,8 +4,8 @@ __British composer and organist (1866–1941)__
 
 View [sets by this composer] in [OpenScore Lieder].
 
-[sets by this composer]: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Goodhart,+Arthur Murray
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[sets by this composer]: https://github.com/artistpromedia/apscore-library-lieder Murray
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 

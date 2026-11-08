@@ -5,8 +5,8 @@ __Irish composer, music teacher, and conductor (1852–1924)__
 
 View [sets by this composer] in [OpenScore Lieder].
 
-[sets by this composer]: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Stanford,+Charles
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[sets by this composer]: https://github.com/artistpromedia/apscore-library-lieder
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 

@@ -4,8 +4,8 @@ __German composer of the Classical era (1735–1782)__
 
 View [sets by this composer] in [OpenScore Lieder].
 
-[sets by this composer]: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bach,+Johann Christian
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[sets by this composer]: https://github.com/artistpromedia/apscore-library-lieder Christian
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 

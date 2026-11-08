@@ -5,8 +5,8 @@ __English singer in London and Oudh (1776–1858)__
 
 View [sets by this composer] in [OpenScore Lieder].
 
-[sets by this composer]: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Bianchi+Lacy,+Jane
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[sets by this composer]: https://github.com/artistpromedia/apscore-library-lieder
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 

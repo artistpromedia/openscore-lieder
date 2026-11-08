@@ -5,8 +5,8 @@ __German composer, music teacher, choir conductor, singer and pianist (1796–18
 
 View [sets by this composer] in [OpenScore Lieder].
 
-[sets by this composer]: https://musescore.com/openscore-lieder-corpus/sets?order=title&text=Zumsteeg,+Emilie
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[sets by this composer]: https://github.com/artistpromedia/apscore-library-lieder
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 

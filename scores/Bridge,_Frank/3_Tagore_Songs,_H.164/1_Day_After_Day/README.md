@@ -4,15 +4,15 @@ __No.1 from [3 Tagore Songs, H.164](..) by [Frank Bridge](../..)__
 
 Transcribed and maintained by contributors to [OpenScore Lieder].
 
-Please visit the [official score page] for more information.
+Score files are available in this folder.
 
-[official score page]: https://musescore.com/openscore-lieder-corpus/scores/30890405
-[OpenScore Lieder]: https://musescore.com/openscore-lieder-corpus
+[official score page]: https://github.com/artistpromedia/apscore-library-lieder
+[OpenScore Lieder]: https://github.com/artistpromedia/apscore-library-lieder
 
 ## External links
 
-- [MuseScore] - view and listen to [this score][MuseScore], or download in a variety of formats.
+- Editable score files are available in this folder.
 - [IMSLP] - view the [source PDF file(s)][IMSLP] that this score was transcribed from.
 
-[MuseScore]: https://musescore.com/score/30890405
+[score library]: https://github.com/artistpromedia/apscore-library-lieder
 [IMSLP]: https://imslp.org/wiki/Special:ReverseLookup/1003325
